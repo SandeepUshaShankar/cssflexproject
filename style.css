@@ -1,0 +1,106 @@
+*{
+    background-color: black;
+}
+
+.container {
+ margin:auto;
+ margin-top: 10%;
+ margin-bottom: 10%;
+    height: 800px;
+    width: 400px;
+    border: 1px solid rgb(69, 64, 64);
+    border-radius: 50px;
+    background-color: rgb(96, 91, 91);
+    display: flex;
+   
+    gap: 10px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.container img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px; 
+  padding-top: 10px;
+  }
+#name{
+    padding-top: 4%;
+
+   
+    color: aliceblue;
+    font-size: larger;
+    font-weight:bold;
+    background-color: rgb(96, 91, 91);
+}
+
+  #place{
+    
+   
+    color: yellow; 
+  font-size: medium;
+  margin: -5px 0 10px;
+  padding-top: 10px;
+    background-color: rgb(96, 91, 91);
+
+
+  }
+  
+  #role{
+    color: aliceblue;
+    font-size: medium;
+    background-color: rgb(96, 91, 91);
+
+  }
+    
+  .Github{
+   
+    padding: 10px 20px;
+    margin: 5px 0;
+    border-radius: 30%;
+    color: aliceblue;
+    font-size: medium;
+    background-color: rgb(36, 31, 31); }
+
+  .Frontendmentor {
+    padding: 10px 20px;
+    margin: 5px 0;
+    border-radius: 30%;
+    color: aliceblue;
+    font-size: medium;
+    background-color: rgb(36, 31, 31);
+   
+  }
+
+  .linkedin{
+    padding: 10px 20px;
+    margin: 5px 0;
+    border-radius: 30%;
+    color: aliceblue;
+    font-size: medium;
+    background-color: rgb(36, 31, 31);
+ }
+
+.twitter{
+  padding: 10px 20px;
+  margin: 5px 0;
+
+    
+    border-radius: 30%;
+    color: aliceblue;
+    font-size: medium;
+    background-color: rgb(36, 31, 3)
+}
+.instagram{
+  padding: 10px 20px;
+  margin: 5px 0;
+    border-radius: 30%;
+    color: aliceblue;
+    font-size: medium;
+    background-color: rgb(36, 31, 31);
+
+}
